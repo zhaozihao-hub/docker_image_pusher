@@ -1,6 +1,3 @@
-langgenius/dify-api:1.4.0
-langgenius/dify-web:1.4.0
-postgres:15-alpine
-langgenius/dify-sandbox:0.2.12
-langgenius/dify-plugin-daemon:0.0.10-local
-semitechnologies/weaviate:1.19.0
+langgenius/dify-api:1.4.1
+langgenius/dify-web:1.4.1
+langgenius/dify-plugin-daemon:0.1.1-local
